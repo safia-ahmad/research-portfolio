@@ -18,9 +18,9 @@ The website is designed to serve as a central hub for my PhD applications, resea
 ## Preview
 
 
-![Home](images/home.png)
+![Home](home.png)
 
-![Projects](images/projects.png)
+![Projects](projects.png)
 
 ---
 
