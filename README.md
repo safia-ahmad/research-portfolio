@@ -16,11 +16,14 @@ The website is designed to serve as a central hub for my PhD applications, resea
 ---
 
 ## Preview
-(home.png)
 
-(projects.png)
+### Homepage
 
----
+![Homepage](home.png)
+
+### Projects
+
+![Projects](projects.png)
 
 ## About
 
